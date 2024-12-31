@@ -1,2 +1,8 @@
-# TaskBites
-TaskBites is a simple, yet efficient web application designed to help users manage their tasks effectively. Built with modern web technologies, TaskBites provides an intuitive interface for adding, editing, and deleting tasks, ensuring that users can stay organized and productive.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
